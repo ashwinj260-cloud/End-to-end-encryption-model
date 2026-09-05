@@ -344,6 +344,3 @@ JWT_SECRET=
 
 ---
 
-## License
-
-[MIT](LICENSE) — or replace with your preferred license.
